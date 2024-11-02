@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 
 *.DS_Store
+myenv/pyvenv.cfg
+myenv/bin/python.exe
+myenv/bin/python3.10.exe
+myenv/bin/python3w.exe
+myenv/bin/pythonw.exe
+myenv/bin/python3.exe
